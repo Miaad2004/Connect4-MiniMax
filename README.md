@@ -9,3 +9,8 @@ To start the game, run the 'main.py' script:
 ```sh
 python src/main.py
 ```
+
+## Contributors
+
+- [Miaad2004](https://github.com/Miaad2004)
+- [taha-najaf](https://github.com/taha-najaf)
