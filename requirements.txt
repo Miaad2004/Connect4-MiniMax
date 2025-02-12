@@ -1,0 +1,5 @@
+pygame==2.6.1
+colorama==0.4.6
+numpy==2.2.1
+tqdm==4.67.1
+torch==2.5.1
